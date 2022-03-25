@@ -47,3 +47,36 @@ function isPalindrome(line) {
     return lineString.split("").reverse().join("") == lineString;
 }
 ``` 
+### Projects experience
+[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)  
+
+*HTML5, CSS3, SASS, JavaScript, Parcel, GIT* 
+
+Mobile-first adaptive and responsive landing page to introduce ice cream products and attract clients.  
+
+[EVENT BOOSTER](https://saurocket.github.io/Team3ProjectJS/?keyword=null&countryCode=null&currentPage=1&inputCountry=null&modal=false&id=null). 
+
+*HTML5, SASS, JavaScript, Parcel, GIT, Handlebars, RestApi, Local Storage, Redux*  
+
+Project for choosing your lovely events in any countries.  
+
+[WEB STUDIO](https://victoriadanilenko.github.io/goit-markup-hw-08/index.html)  
+*HTML5, SASS, JavaScript, WebPack, GIT*
+
+Promotion project for WebStudio
+
+### Education
+[IT School GoIT](https://goit.ua/)  
+
+**Frontend Developer**. 
+>October 2020 - November 2021 | Online
+
+[School of Web-Design by Maxim Soldatkin](https://maximsoldatkin.com/designer/) 
+
+**UX / UI designer**  
+>February 2019 - May 2019 | Online
+
+### Languages
+English - Upper-Intermediate  
+
+Russian - Native
