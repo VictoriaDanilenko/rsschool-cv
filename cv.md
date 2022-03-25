@@ -63,7 +63,7 @@ Project for choosing your lovely events in any countries.
 [WEB STUDIO](https://victoriadanilenko.github.io/goit-markup-hw-08/index.html)  
 *HTML5, SASS, JavaScript, WebPack, GIT*
 
-Promotion project for WebStudio
+Promotion project for WebStudio.
 
 ### Education
 [IT School GoIT](https://goit.ua/)  

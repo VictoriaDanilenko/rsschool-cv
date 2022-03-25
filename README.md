@@ -1,2 +1,3 @@
 # rsschool-cv
-CV (Markdown &amp; HTML, CSS)
+CV (Markdown & Git)
+https://VictoriaDanilenko.github.io/rsschool-cv/cv
